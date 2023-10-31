@@ -1,3 +1,5 @@
+![Mímir Logo ><](../files/dark-mimir-icon.png)
+
 # MÍMIR HUB SOFTWARE FACTORY
 
 Mímir Hub Software Factory is a technological company on software and data solution developments.
