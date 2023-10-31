@@ -1,4 +1,4 @@
-![Mímir Logo ><](../files/dark-mimir-icon.png)
+![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
 # MÍMIR HUB SOFTWARE FACTORY
 
