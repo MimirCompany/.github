@@ -7,7 +7,7 @@
 
 Mímir Hub Software Factory is an agile technological company on smart solutions.
 
-## ABOUT US
+### ABOUT US
 As an agile company, we develop the best possible software and data solutions to allow our customers to accomplish their business goals.
 
 ### VALUES
@@ -26,7 +26,7 @@ We will be an agile reference on smart solutions by 2028.
 
 ---
 
-## TECHNOLOGICAL SERVICES
+### TECHNOLOGICAL SERVICES
 Our technological services:
 * Technical Consulting
 * Management of Outsource Agile-Scrum Team
