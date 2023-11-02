@@ -33,4 +33,4 @@ Our technological services:
 
 ---
 
-© Mímir Software Hub: smart solution on software and data. ® All rights reserved.
+©Mímir Software Hub: smart solutions on software and data. ®All rights reserved.
