@@ -1,30 +1,28 @@
 ![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
-# MÍMIR HUB SOFTWARE FACTORY
+# MÍMIR HUB SOFTWARE FACTORY: Smart Solutions on Software and Data
 
-Mímir Hub Software Factory is a technological company on software and data solution developments.
+Mímir Hub Software Factory is an agile technological company on software and data solutions.
 
 ---
 
 ## ABOUT US
 
-We develop the best possible software and data solutions in order to allow our customer to accomplish their business goals.
-
-### MISSION
-
-INNOVATE with AGILITY and QUALITY to maximize the value generation through CUSTOMER-CENTRIC thinking.
-
-### VISION
-
-Duplicate and build long-term partnerships with all our customers in 5 years.
+We develop the best possible software and data solutions to allow our customers to accomplish their business goals.
 
 ### VALUES
-* AGILITY as a framework
-* CUSTOMER-CENTRIC to maximize the value generation
-* ETHICS for sustainability
-* INNOVATION as a long-term thinking
-* PARTNERSHIP through what we grow
+* AGILITY as a business framework
+* CUSTOMER-CENTRIC to maximize value generation
+* ETHICS for the sustainability
+* INNOVATE as a long-term thinking
+* PARTNERSHIP through which we grow
 * QUALITY as our differential
+
+### MISSION
+INNOVATE with AGILITY, ETHICS, and QUALITY to maximize value generation through CUSTOMER-CENTRIC and PARTNERSHIP thinking on software and data solutions.
+
+### VISION
+In 5 years, we will build long-term partnerships with all our customers through excellence and smart solutions on software and data.
 
 ---
 
@@ -32,6 +30,6 @@ Duplicate and build long-term partnerships with all our customers in 5 years.
 
 Some of our technological services:
 * Technical Consulting
-* Closed Scope Software/Data Solutions
+* Software/Data Solutions
 
 ---
