@@ -3,8 +3,6 @@
 # MÍMIR HUB SOFTWARE FACTORY
 ### Smart Solutions on Software and Data
 
----
-
 Mímir Hub Software Factory is an agile technological company on smart solutions.
 
 ### ABOUT US
