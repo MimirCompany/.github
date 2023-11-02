@@ -33,4 +33,4 @@ Our technological services:
 
 ---
 
-© Mímir Hub Software Hub. All rights reserved.
+© Mímir Hub Software Hub. ® All rights reserved.
