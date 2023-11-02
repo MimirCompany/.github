@@ -1,9 +1,12 @@
 ![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
 # MÍMIR HUB SOFTWARE FACTORY
-Mímir Hub Software Factory is an agile technological company on smart solutions.
 
 ---
+
+### Mímir Hub Software Factory: Smart Solutions on Software and Data
+
+Mímir Hub Software Factory is an agile technological company on smart solutions.
 
 ## ABOUT US
 As an agile company, we develop the best possible software and data solutions to allow our customers to accomplish their business goals.
@@ -33,4 +36,4 @@ Our technological services:
 
 ---
 
-Mímir Hub Software Factory: Smart Solutions on Software and Data
+© Mímir Hub Software Hub. All rights reserved.
