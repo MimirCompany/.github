@@ -1,7 +1,7 @@
 ![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
 # MÍMIR SOFTWARE FACTORY
-### Smart Solutions on Data and Artificial Intelligence
+### Smart Solutions on Software, Data and Artificial Intelligence
 
 Mímir Software Factory is an agile technological company on smart solutions.
 
@@ -48,7 +48,7 @@ Our technological services:
 
 ### Technology Operations
 * Bash script with Linux and Bash
-* Continuous Integration (CI) and Continous Delivery/Deployment (CD) based on GitLAB CI/CD
+* Continuous Integration (CI) and Continous Delivery/Deployment (CD) based on GitLab CI/CD
 * Containerization with Docker (Docker, Docker-Compose)
 * Container Orchestration with Kubernetes (K3S)
 * Infrastructure Management and Deployment with Infrastructure-As-A-Code (Terraform, Terragrunt, Tflint, Infracost)
@@ -82,4 +82,4 @@ Our technological services:
 * Email: mimirsoftwarefactory@gmail.com
 * LinkedIn: https://www.linkedin.com/company/mimir-software-factory/
 
-© Mímir Software Factory: Smart Solutions on Software, Data and Artificial Intelligence. ®All rights reserved.
+© Mímir Software Factory: Smart Solutions on Software, Data and Artificial Intelligence. ® All rights reserved.
