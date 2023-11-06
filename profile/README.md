@@ -48,6 +48,7 @@ Our technological services:
 
 ### Technology Operations
 * Bash script with Linux and Bash
+* Continuous Integration (CI) and Continous Delivery/Deployment (CD) based on GitLAB CI/CD
 * Containerization with Docker (Docker, Docker-Compose)
 * Container Orchestration with Kubernetes (K3S)
 * Infrastructure Management and Deployment with Infrastructure-As-A-Code (Terraform, Terragrunt, Tflint, Infracost)
