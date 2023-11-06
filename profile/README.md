@@ -1,12 +1,12 @@
 ![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
 # MÍMIR SOFTWARE FACTORY
-### Smart Solutions on Software and Data
+### Smart Solutions on Data and Artificial Intelligence
 
 Mímir Software Factory is an agile technological company on smart solutions.
 
 ### ABOUT US
-As an agile company, we develop the best possible software and data solutions to allow our customers to accomplish their business goals.
+As an agile company, we develop the best possible software, data, and artificial intelligence solutions to allow our customers to accomplish their business goals.
 
 ### VALUES
 * AGILITY as a business framework
@@ -37,7 +37,7 @@ Software Engineering:
 * Systematic Methodologies: Traditional SDLC and Waterfall
 * AGILE Methodologies: Lean-Kanban and Scrum
 * Best Practices and Standards: Domain-Driven Design, Feature- or Test-Driven Development, Layered- and Clean Architecture, Clean Code and Language Standards (PEP-8 and ECMA-262), SOLID as Object-Oriented Programming Principles, and Functional Programming on Data Processing.
-* Operations: DevOps (bash and powershell scripts, CI/CD pipelines, docker, docker-compose, k3s, terraform-terragrunt, elastic-stack) and DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments)
+* Operations: DevOps (Linux Bash and PowerShell scripts, CI/CD pipelines, docker, docker-compose, k3s, terraform-terragrunt, elastic-stack) and DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments)
 
 Software Development
 * Back-End, Data, and Artificial Intelligence Engineering with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
