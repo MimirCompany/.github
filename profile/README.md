@@ -83,5 +83,6 @@ Our technological services:
 
 * Email: mimirsoftwarefactory@gmail.com
 * LinkedIn: https://www.linkedin.com/company/mimir-software-factory/
+* Instagram: https://www.instagram.com/mimirsoftwarefactory/
 
 © Mímir Software Factory: Smart Solutions on Software, Data and Artificial Intelligence. ® All rights reserved.
