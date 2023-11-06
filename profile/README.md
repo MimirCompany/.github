@@ -31,6 +31,8 @@ Our technological services:
 * Software and Data Solutions
 * Artificial Intelligence Solutions
 
+---
+
 ### TECHNOLOGICAL CAPABILITY
 
 ### Software Engineering
