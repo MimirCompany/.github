@@ -39,12 +39,12 @@ Our technological services:
 * Systematic Methodologies: Traditional SDLC and Waterfall
 * AGILE Methodologies: Lean-Kanban and Scrum
 * Best Practices and Standards: Domain-Driven Design, Feature- or Test-Driven Development, Layered- and Clean Architecture, Clean Code and Language Standards (PEP-8 and ECMA-262), SOLID as Object-Oriented Programming Principles, and Functional Programming on Data Processing.
-* Operations: DevOps (Linux Bash and PowerShell scripts, CI/CD pipelines, docker, docker-compose, k3s, terraform-terragrunt, elastic-stack) and DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments)
+* Operations: DevOps (Linux Bash and PowerShell scripts, CI/CD pipelines, docker, docker-compose, k3s, elastic-stack), DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments) and InfraOps (terraform-terragrunt).
 
 ### Software Development
-* Back-End, Data, and Artificial Intelligence Engineering with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
-* Front-End Engineering with Javascript (FNM, Node.js, pnpm, Typescript, Zod.js, TanStack, Reac.js, Next.js, Tailwind CSS, Next UI, and Daisy UI)
-* Bash, Rust, SQL, and HCL (Terraform) Developments
+* Back-End, Data, and Artificial Intelligence Development with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
+* Front-End Development with Javascript (FNM, Node.js, pnpm, Typescript, Zod.js, TanStack, Reac.js, Next.js, Tailwind CSS, Next UI, and Daisy UI)
+* Others Developments: Bash, Rust, SQL, YAML (gitlab ci/cd, docker, docker-compose and kubernetes) and HCL (Terraform)
 
 ### Technology Operations
 * Bash script with Linux and Bash
@@ -64,7 +64,7 @@ Our technological services:
 * Data Pipelines Architecture: Lambda and Kappa
 * Data Pipelines Development: ELT, ETL, and ELTL (Data Lake)
 * Data System Architecture and Modelling: Data Marts/Warehouse, Lake, and Lakehouse
-* Data Technologies: Apache Hadoop, AWS S3, Azure Data Lake Storage Gen2, Redis, AWS RDS, Azure SQL Database, Postgres SQL, SQL Server, Mongo DB, AWS DynamoDB, Apache Cassandra + Azure CosmosSB, Elasticsearch + AWS OpenSearch. 
+* Data Technologies: Apache Hadoop, AWS S3, Azure Data Lake Storage Gen2, Redis, AWS RDS, Azure SQL Database, Postgres SQL, SQL Server, Mongo DB, AWS DynamoDB, Apache Cassandra + Azure CosmosSB, Elasticsearch + AWS OpenSearch, Apache Airflow, Apache Kafka, Apache Spark, Apache Flink.
 
 ### Back-End Development
 * Web Back-End Platform based on Python, Django, Django-Rest, and many Django-Packages.
