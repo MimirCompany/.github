@@ -44,7 +44,7 @@ Our technological services:
 ### Software Development
 * Back-End, Data, and Artificial Intelligence Engineering with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
 * Front-End Engineering with Javascript (FNM, Node.js, pnpm, Typescript, Zod.js, TanStack, Reac.js, Next.js, Tailwind CSS, Next UI, and Daisy UI)
-* Rust Development
+* Bash, Rust, SQL, and HCL (Terraform) Developments
 
 ### Technology Operations
 * Bash script with Linux and Bash
@@ -52,6 +52,7 @@ Our technological services:
 * Containerization with Docker (Docker, Docker-Compose)
 * Container Orchestration with Kubernetes (K3S)
 * Infrastructure Management and Deployment with Infrastructure-As-A-Code (Terraform, Terragrunt, Tflint, Infracost)
+* Observability with Elastic-Stack (Elasticsearch, Logstash, and Kibana)
 
 ### Cloud Engineering
 * AWS Infrastructure Management and Deployment (AWS CLI, Terraform)
@@ -63,6 +64,7 @@ Our technological services:
 * Data Pipelines Architecture: Lambda and Kappa
 * Data Pipelines Development: ELT, ETL, and ELTL (Data Lake)
 * Data System Architecture and Modelling: Data Marts/Warehouse, Lake, and Lakehouse
+* Data Technologies: Apache Hadoop, AWS S3, Azure Data Lake Storage Gen2, Redis, AWS RDS, Azure SQL Database, Postgres SQL, SQL Server, Mongo DB, AWS DynamoDB, Apache Cassandra + Azure CosmosSB, Elasticsearch + AWS OpenSearch. 
 
 ### Back-End Development
 * Web Back-End Platform based on Python, Django, Django-Rest, and many Django-Packages.
