@@ -79,4 +79,4 @@ Our technological services:
 * Email: mimirsoftwarefactory@gmail.com
 * LinkedIn: https://www.linkedin.com/company/mimir-software-factory/
 
-©Mímir Software Hub: smart solutions on software and data. ®All rights reserved.
+© Mímir Software Factory: Smart Solutions on Software, Data and Artificial Intelligence. ®All rights reserved.
