@@ -34,9 +34,10 @@ Our technological services:
 ### TECHNOLOGICAL CAPABILITY
 
 Software Engineering:
-* Systematic Methodologies: SDLC and Waterfall
+* Systematic Methodologies: Traditional SDLC and Waterfall
 * AGILE Methodologies: Lean-Kanban and Scrum
-* Operations: DevOps and DevSecOps
+* Best Practices and Standards: Domain-Driven Design, Feature- or Test-Driven Development, Layered- and Clean Architecture, Clean Code and Language Standards (PEP-8 and ECMA-262), SOLID as Object-Oriented Programming Principles, and Functional Programming on Data Processing.
+* Operations: DevOps (bash and powershell scripts, CI/CD pipelines, docker, docker-compose, k3s, terraform-terragrunt, elastic-stack) and DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments)
 
 Software Development
 * Back-End, Data, and Artificial Intelligence Engineering with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
@@ -47,7 +48,12 @@ Technology Operations:
 * Bash script with Linux and Bash
 * Containerization with Docker (Docker, Docker-Compose)
 * Container Orchestration with Kubernetes (K3S)
-* Infrastructure Management and Deployment with Terraform (Terraform, Azure-CLI, AWS-CLI, Terragrunt, Tflint, Infracost)
+* Infrastructure Management and Deployment with Infrastructure-As-A-Code (Terraform, Terragrunt, Tflint, Infracost)
+
+# Cloud Engineering:
+* AWS Infrastructure Management and Deployment (AWS CLI, Terraform)
+* Azure Infrastructure Management and Deployment (Azure CLI, Terraform)
+* Infrastructure Management and Deployment with Terraform (Terraform, Terragrunt, Tflint, Infracost)
 
 Data Engineering Systems Architecture and Modelling:
 * Data Modellings: Transactional-Entity-Relationship and Analytics-Fact-Dimensional )Star and Snowflake Schemas)
@@ -64,7 +70,7 @@ Front-End Development:
 * Web Front-End Platform based on Javascript, Node.js, pnpm, Typescript, Zod.js, TanStack.js, Next.js, React.js, and Tailwind CSS.
 
 Artificial Intelligence:
-* Reinforcement Learning with a Q-learning Model based on a Time-Series Specialist Agent  with a Recurrent Neuro Network with LSTM for financial markets.
+* Reinforcement Learning with a Q-learning Model based on a Time-Series Specialist Agent (scikit-lean and tensorflow) with a Recurrent Neuro Network with LSTM for financial markets.
 
 ---
 
