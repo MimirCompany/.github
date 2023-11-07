@@ -6,7 +6,7 @@
 Mímir Software Factory is an agile technological company on smart solutions.
 
 ### ABOUT US
-As an agile company, we develop the best possible software, data, and artificial intelligence solutions to allow our customers to accomplish their business goals.
+As an agile company, we develop the best possible software, data, and artificial intelligence solutions to help our customers accomplish their business goals quickly and with the right scope.
 
 ### VALUES
 * AGILITY as a business framework
@@ -42,9 +42,9 @@ Our technological services:
 * Operations: DevOps (Linux Bash and PowerShell scripts, CI/CD pipelines, docker, docker-compose, k3s, elastic-stack), DevSecOps (decoupling development, unit- and integration tests, static analysis, pre-commit analysis, code review, and multi-stage environments) and InfraOps (terraform-terragrunt).
 
 ### Software Development
-* Back-End, Data, and Artificial Intelligence Development with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, pandas/dask/polars, scrapy, scikit-learn, tensorflow, and many others)
+* Back-End, Data, and Artificial Intelligence Development with Python (pyenv, poetry, numba, fastapi, pydantic, django, django-rest, numpy, scipy, pandas/dask/polars, scrapy, scikit-learn, tensorFlow, and many others)
 * Front-End Development with Javascript (FNM, Node.js, pnpm, Typescript, Zod.js, TanStack, Reac.js, Next.js, Tailwind CSS, Next UI, and Daisy UI)
-* Others Developments: Bash, Rust, SQL, YAML (gitlab ci/cd, docker, docker-compose and kubernetes) and HCL (Terraform)
+* Other Developments: Bash, Rust, SQL, YAML (gitlab ci/cd, docker, docker-compose, and kubernetes) and HCL (Terraform)
 
 ### Technology Operations
 * Bash script with Linux and Bash
