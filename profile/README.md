@@ -27,7 +27,7 @@ We will be an agile reference on smart solutions by 2028.
 ### TECHNOLOGICAL SERVICES
 Our technological services:
 * Technical Consulting
-* Management of Outsource Agile-Scrum Team
+* Outsourcing Agile-Scrum Squad on Demand
 * Software and Data Solutions
 * Artificial Intelligence Solutions
 
