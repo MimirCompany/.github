@@ -1,9 +1,7 @@
 ![Mímir Logo ><](https://github.com/MimirCompany/.github/blob/main/files/dark-mimir-icon.png)
 
 # MÍMIR SOFTWARE FACTORY
-### Smart Solutions on Software, Data and Artificial Intelligence
-
-Mímir Software Factory is an agile technological company on smart solutions.
+### An agile company on smart solutions.
 
 ### ABOUT US
 As an agile company, we develop the best possible software, data, and artificial intelligence solutions to help our customers accomplish their business goals quickly and with the right scope.
