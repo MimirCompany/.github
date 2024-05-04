@@ -4,7 +4,7 @@
 **An agile company focused on data-driven cloud-based solutions**.
 
 ### ABOUT US
-As an agile company, we develop the best possible solutions with the resources available to help our customers accomplish their core business goals quickly and with the right scope.
+As an agile company, we develop the best possible solutions to help our customers accomplish their core business goals quickly and with the right scope.
 
 ### SERVICES
 
@@ -56,10 +56,12 @@ Partner with us to embark on a journey of digital transformation, where your dat
 ### VISION
 We will be an agile reference on smart solutions by 2028.
 
-EMAIL:     mimirsoftwarefactory@gmail.com
+---
 
-LINKEDIN:  https://www.linkedin.com/company/mimir-software-factory/
+**EMAIL**:     mimirsoftwarefactory@gmail.com
 
-INSTAGRAM: https://www.instagram.com/mimirsoftwarefactory/
+**LINKEDIN**:  https://www.linkedin.com/company/mimir-software-factory/
 
-© 2024 Mímir Software Factory: Driving Business Growth with Data-Driven Cloud-Based Solutions.
+**INSTAGRAM**: https://www.instagram.com/mimirsoftwarefactory/
+
+**© 2024 Mímir Software Factory: Driving Business Growth with Data-Driven Cloud-Based Solutions.**
