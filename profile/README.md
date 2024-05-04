@@ -56,9 +56,9 @@ Partner with us to embark on a journey of digital transformation, where your dat
 ### VISION
 We will be an agile reference on smart solutions by 2028.
 
-EMAL: mimirsoftwarefactory@gmail.com
+EMAIL:     mimirsoftwarefactory@gmail.com
 
-LINKEDIN: https://www.linkedin.com/company/mimir-software-factory/
+LINKEDIN:  https://www.linkedin.com/company/mimir-software-factory/
 
 INSTAGRAM: https://www.instagram.com/mimirsoftwarefactory/
 
