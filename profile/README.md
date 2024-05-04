@@ -56,7 +56,10 @@ Partner with us to embark on a journey of digital transformation, where your dat
 ### VISION
 We will be an agile reference on smart solutions by 2028.
 
-* EMAL: mimirsoftwarefactory@gmail.com
-* LINKEDIN: https://www.linkedin.com/company/mimir-software-factory/
-* INSTAGRAM: https://www.instagram.com/mimirsoftwarefactory/
+EMAL: mimirsoftwarefactory@gmail.com
+
+LINKEDIN: https://www.linkedin.com/company/mimir-software-factory/
+
+INSTAGRAM: https://www.instagram.com/mimirsoftwarefactory/
+
 © 2024 Mímir Software Factory: Driving Business Growth with Data-Driven Cloud-Based Solutions.
